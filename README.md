@@ -1,18 +1,14 @@
 <h1 align="center">
- <a href="https://www.chepanel.com">
+ <a href="https://chepanel.aldinara.co.id">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://chepanel.com/che-logo.svg"/>
-    <img height="69" src="https://chepanel.com/che-logo.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://chepanel.aldinara.co.id/che-logo.svg"/>
+    <img height="69" src="https://chepanel.aldinara.co.id/che-logo.svg"/>
   </picture>
  </a>
  <br />
 </h1>
 <p align="center">
  Powerful Linux multi-platform hosting control panel designed to simplify the process of managing web hosting servers. 
-</p>
-<p align="center">
-  <a href="https://github.com/anjasamar/ChePanel"><img src="https://img.shields.io/github/stars/anjasamar/ChePanel" /></a>
-  <a href="https://github.com/anjasamar/ChePanel/blob/main/LICENSE"><img src="https://img.shields.io/github/license/anjasamar/ChePanel"/></a>
 </p>
 
 ![Che Panel - Dashboard](screenshots/dashboard.png)
@@ -41,14 +37,11 @@ rm -rf update.sh && wget https://raw.githubusercontent.com/anjasamar/ChePanel/ma
 
 ## Documentation
 
-For more information, please refer to the [documentation](https://docs.chepanel.com/introduction/getting-started.html).
+For more information, please refer to the [documentation](https://docs.chepanel.aldinara.co.id/introduction/getting-started.html).
 
 ## Build Status
 
 ### Master branch
-
-[![Build Status](https://drone.checloud.com/api/badges/anjasamar/ChePanel/status.svg)](https://drone.checloud.com/anjasamar/ChePanel)
-[![codecov](https://codecov.io/gh/anjasamar/ChePanel/graph/badge.svg?token=BO0RTPLS4W)](https://codecov.io/gh/anjasamar/ChePanel)
 
 All development is done on the `dev` branch. The `master` branch is used for stable releases.
 
@@ -70,7 +63,7 @@ CHE PANEL supports a variety of server application types, including:
 
 To get started with CHE PANEL, follow these simple steps:
 
-1. **Installation:** Visit [our website](https://chepanel.com) to download the installation package for your server environment.
+1. **Installation:** Visit [our website](https://chepanel.aldinara.co.id) to download the installation package for your server environment.
 2. **Configuration:** Follow the installation instructions to set up CHE PANEL on your server.
 3. **Access:** Once installed, access CHE PANEL via your web browser and log in using your credentials.
 4. **Explore:** Take some time to explore the features and functionalities of CHE PANEL and start managing your hosting environment with ease.
@@ -79,8 +72,7 @@ To get started with CHE PANEL, follow these simple steps:
 
 Stay up to date with the latest news and updates from CHE PANEL:
 
-- Website: [https://chepanel.com](https://chepanel.com)
-- Discord: [https://discord.gg/yfFWfrfwTZ](https://discord.gg/yfFWfrfwTZ)
+- Website: [https://chepanel.com](https://chepanel.aldinara.co.id)
 
 We hope you enjoy using CHE PANEL to simplify your hosting management tasks!
 
@@ -90,7 +82,7 @@ We welcome contributions from the community to help improve CHE PANEL. If you ha
 
 ## Support
 
-For support and assistance with CHE PANEL, please visit our [documentation](https://chepanel.com/docs) or reach out to our [support team](mailto:support@chepanel.com).
+For support and assistance with CHE PANEL, please visit our [documentation](https://chepanel.aldinara.co.id/docs) or reach out to our [support team](mailto:support@chepanel.aldinara.co.id).
 
 ## Integrations
 
