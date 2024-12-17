@@ -1,0 +1,14 @@
+{
+    "name": "Terminal",
+    "alias": "terminal",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "logoIcon": "heroicon-o-command-line",
+    "category": "DevOps",
+    "adminUrl": "/admin/terminal",
+    "providers": [
+        "Modules\\Terminal\\App\\Providers\\TerminalServiceProvider"
+    ],
+    "files": []
+}

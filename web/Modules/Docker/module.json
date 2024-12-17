@@ -1,0 +1,14 @@
+{
+    "name": "Docker",
+    "alias": "docker",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "logoIcon": "docker-logo",
+    "category": "DevOps",
+    "adminUrl": "/admin/docker/containers",
+    "providers": [
+        "Modules\\Docker\\App\\Providers\\DockerServiceProvider"
+    ],
+    "files": []
+}

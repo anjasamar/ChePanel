@@ -1,0 +1,31 @@
+{
+    "name": "che/docker",
+    "description": "",
+    "authors": [
+        {
+            "name": "Anjas Amar Pradadna",
+            "email": "atsidev.io@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Docker\\": "",
+            "Modules\\Docker\\App\\": "app/",
+            "Modules\\Docker\\Database\\Factories\\": "database/factories/",
+            "Modules\\Docker\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Docker\\Tests\\": "tests/"
+        }
+    }
+}

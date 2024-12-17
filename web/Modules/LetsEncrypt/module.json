@@ -1,0 +1,14 @@
+{
+    "name": "LetsEncrypt",
+    "alias": "letsencrypt",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "logoIcon": "lets_encrypt-logo",
+    "category": "Security",
+    "adminUrl": "/admin/lets-encrypt/lets-encrypt-certificates",
+    "providers": [
+        "Modules\\LetsEncrypt\\App\\Providers\\LetsEncryptServiceProvider"
+    ],
+    "files": []
+}

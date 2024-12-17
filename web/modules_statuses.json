@@ -1,0 +1,12 @@
+{
+    "LetsEncrypt": true,
+    "Microweber": true,
+    "Docker": true,
+    "Customer": true,
+    "Model": true,
+    "DockerTemplate": true,
+    "Terminal": true,
+    "Mail": true,
+    "Email": true,
+    "Minecraft": true
+}

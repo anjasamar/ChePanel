@@ -1,0 +1,6 @@
+user = {{$username}}
+password = {{$password}}
+hosts = {{$host}}
+dbname = {{$database}}
+port = {{$port}}
+query = SELECT goto FROM email_aliases WHERE address='%s'

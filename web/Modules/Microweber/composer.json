@@ -1,0 +1,35 @@
+{
+    "name": "che/microweber",
+    "description": "",
+    "authors": [
+        {
+            "name": "Anjas Amar Pradana",
+            "email": "atsidev.io@gmail.com"
+        }
+    ],
+    "require": {
+        "microweber-packages/composer-client": "^2.1",
+        "microweber-packages/shared-server-scripts": "^0.9"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Microweber\\": "",
+            "Modules\\Microweber\\App\\": "app/",
+            "Modules\\Microweber\\Database\\Factories\\": "database/factories/",
+            "Modules\\Microweber\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Microweber\\Tests\\": "tests/"
+        }
+    }
+}

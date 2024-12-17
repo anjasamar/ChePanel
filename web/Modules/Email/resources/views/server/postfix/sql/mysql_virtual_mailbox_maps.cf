@@ -1,0 +1,6 @@
+user = {{$username}}
+password = {{$password}}
+hosts = {{$host}}
+dbname = {{$database}}
+port = {{$port}}
+query = SELECT maildir FROM email_boxes WHERE username='%s'

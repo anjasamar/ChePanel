@@ -1,0 +1,6 @@
+user = {{$username}}
+password = {{$password}}
+hosts = {{$host}}
+dbname = {{$database}}
+port = {{$port}}
+query = SELECT domain FROM domains WHERE domain='%s'

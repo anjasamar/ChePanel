@@ -1,0 +1,31 @@
+{
+    "name": "che/customer",
+    "description": "",
+    "authors": [
+        {
+            "name": "Anjas Amar Pradana",
+            "email": "atsidev.io@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Customer\\": "",
+            "Modules\\Customer\\App\\": "app/",
+            "Modules\\Customer\\Database\\Factories\\": "database/factories/",
+            "Modules\\Customer\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Customer\\Tests\\": "tests/"
+        }
+    }
+}
