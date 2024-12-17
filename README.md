@@ -11,12 +11,8 @@
  Powerful Linux multi-platform hosting control panel designed to simplify the process of managing web hosting servers. 
 </p>
 <p align="center">
-  <a href="https://www.chepanel.com/"><img src="https://img.shields.io/badge/Website-blue?logo=googlechrome&logoColor=black"/></a>
-  <a href="https://discord.gg/vsxBuMFK"><img src="https://img.shields.io/discord/1227542192189603872?logo=discord&label=discord"/></a>
   <a href="https://github.com/anjasamar/ChePanel"><img src="https://img.shields.io/github/stars/anjasamar/ChePanel" /></a>
   <a href="https://github.com/anjasamar/ChePanel/blob/main/LICENSE"><img src="https://img.shields.io/github/license/anjasamar/ChePanel"/></a>
-  <a href="https://drone.checloud.com/anjasamar/ChePanel"><img src="https://drone.checloud.com/api/badges/anjasamar/ChePanel/status.svg"/></a>
-  <a href="https://codecov.io/gh/anjasamar/ChePanel"><img src="https://codecov.io/gh/anjasamar/ChePanel/graph/badge.svg?token=BO0RTPLS4W"/></a>
 </p>
 
 ![Che Panel - Dashboard](screenshots/dashboard.png)
