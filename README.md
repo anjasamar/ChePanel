@@ -72,7 +72,7 @@ To get started with CHE PANEL, follow these simple steps:
 
 Stay up to date with the latest news and updates from CHE PANEL:
 
-- Website: [https://chepanel.com](https://chepanel.aldinara.co.id)
+- Website: [https://chepanel.aldinara.co.id](https://chepanel.aldinara.co.id)
 
 We hope you enjoy using CHE PANEL to simplify your hosting management tasks!
 
