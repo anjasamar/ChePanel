@@ -1,7 +1,7 @@
 Copyright (C) 2024 - now present ChePanel - ATSiCorporation (support@chepanel.aldinara.co.id)
 
 This file is part of the ChePanel project.
-End-User Agreements: CHEPANEL is freemium-ware licensed as community edition will have limitation as base common usage like personal and non-commercial usage, commercial usage will have different repo at Aldinara Server and commercial will have customization feature.
+End-User Agreements: This version of CHEPANEL on github or community is freemium software, which is licensed as a community edition that will have limitations as a basis for general use such as personal and non-commercial use, commercial use will have a special and direct repo that is different on the Aldinara Digitech Innovation Server, the commercial version will have complete features according to the plan we have, and can be customized by customer request with a minimum Enterprises license class or plan category, and the entire code base will be open or unencrypted for custom modification, and only the encryption of the license module section including the debian package for Ubuntu, and the rpm package for centos [^8].
 
 The ChePanel project can not be modified and/or distributed without the express or with our permission.
 permission of ATSiCorporation & Aldinara Digitech Innovation (support@chepanel.aldinara.co.id).
