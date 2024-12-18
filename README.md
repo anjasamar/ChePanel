@@ -3,6 +3,7 @@
  <span>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjasamar/ChePanel/refs/heads/main/docs/public/che-logo.svg"/>
+    <img height="69" src="https://raw.githubusercontent.com/anjasamar/ChePanel/refs/heads/main/docs/public/che-logo-icon.svg"/>
   </picture>
  </span>
  </a>
