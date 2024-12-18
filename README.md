@@ -13,7 +13,7 @@
 
 ## About CHE PANEL
 
-CHE PANEL is a powerful Linux multi-platform hosting control panel designed to simplify the process of managing web hosting servers. Whether you're a seasoned sysadmin or just starting out, CHE PANEL provides an intuitive interface and robust features to streamline your hosting management tasks.
+CHE PANEL is a powerful Ubuntu hosting control panel designed to simplify the process of managing web hosting servers. Whether you're a seasoned sysadmin or just starting out, CHE PANEL provides an intuitive interface and robust features using laravel and filament to streamline your hosting management tasks.
 
 ## Installation
 
