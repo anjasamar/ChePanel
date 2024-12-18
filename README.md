@@ -2,8 +2,8 @@
  <a href="https://chepanel.aldinara.co.id">
  <span>
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjasamar/ChePanel/refs/heads/main/docs/public/che-logo-icon.svg"/><br/>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjasamar/ChePanel/refs/heads/main/docs/public/che-logo.svg"/>
-    <img height="69" src="https://raw.githubusercontent.com/anjasamar/ChePanel/refs/heads/main/docs/public/che-logo.svg"/>
   </picture>
  </span>
  </a>
@@ -13,9 +13,9 @@
  Powerful Linux multi-platform hosting control panel designed to simplify the process of managing web hosting servers. 
 </p>
 
-## About CHE PANEL
+## About CHEPANEL
 
-CHE PANEL is a powerful Ubuntu hosting control panel designed to simplify the process of managing web hosting servers. Whether you're a seasoned sysadmin or just starting out, CHE PANEL provides an intuitive interface and robust features using laravel and filament to streamline your hosting management tasks.
+CHEPANEL is a powerful Ubuntu hosting control panel designed to simplify the process of managing web hosting servers. Whether you're a seasoned sysadmin or just starting out, CHE PANEL provides an intuitive interface and robust features using laravel and filament to streamline your hosting management tasks.
 
 ## Installation
 
