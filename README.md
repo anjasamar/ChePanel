@@ -1,10 +1,5 @@
 <h1 align="center">
- <a href="https://chepanel.aldinara.co.id"> <span>**ChePanel**</span>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://chepanel.aldinara.co.id/che-logo.svg"/>
-    <img height="69" src="https://chepanel.aldinara.co.id/che-logo.svg"/>
-  </picture>
- </a>
+ <a href="https://chepanel.aldinara.co.id"> <span>**ChePanel**</span></a>
  <br />
 </h1>
 <p align="center">
@@ -113,4 +108,4 @@ For support and assistance with CHE PANEL, please visit our [documentation](http
 
 ## License
 
-CHE PANEL is licensed under the [GNU General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl-3.0.en.html). See the [LICENSE](LICENSE) file for details.
+CHE PANEL is freemium-ware licensed as community edition will have limitation as base common usage like personal and non-commercial usage, commercial usage will have different repo at Aldinara Server and commercial will have customization feature.
