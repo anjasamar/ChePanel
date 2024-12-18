@@ -59,4 +59,4 @@ CHE_PHP=/usr/local/che/php/bin/php
 
 ln -s $CHE_PHP /usr/bin/che-php
 
-curl -s https://chepanel.com/api/che-installation-log -X POST -H "Content-Type: application/json" -d '{"os": "ubuntu-22.04"}'
+curl -s https://chepanel.aldinara.co.id/api/che-installation-log -X POST -H "Content-Type: application/json" -d '{"os": "ubuntu-22.04"}'

@@ -41,7 +41,7 @@ DISTRO_NAME=$(echo $DISTRO_NAME | tr '[:upper:]' '[:lower:]')
 # replace spaces
 DISTRO_NAME=${DISTRO_NAME// /-}
 
-INSTALLER_URL="https://raw.githubusercontent.com/chepanel/main/installers/${DISTRO_NAME}-${DISTRO_VERSION}/install.sh"
+INSTALLER_URL="https://raw.githubusercontent.com/anjasamar/chepanel/main/installers/${DISTRO_NAME}-${DISTRO_VERSION}/install.sh"
 
 INSTALLER_CONTENT=$(wget ${INSTALLER_URL} 2>&1)
 if [[ "$INSTALLER_CONTENT" =~ 404\ Not\ Found ]]; then

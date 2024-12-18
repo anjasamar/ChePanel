@@ -59,7 +59,7 @@ CHE_PHP=/usr/local/che/php/bin/php
 
 ln -s $CHE_PHP /usr/bin/che-php
 
-curl -s https://chepanel.com/api/che-installation-log -X POST -H "Content-Type: application/json" -d '{"os": "ubuntu-22.04"}'
+curl -s https://chepanel.aldinara.co.id/api/che-installation-log -X POST -H "Content-Type: application/json" -d '{"os": "ubuntu-22.04"}'
 #!/bin/bash
 
 HOSTNAME=$(hostname)
@@ -73,7 +73,7 @@ DISTRO_NAME=${DISTRO_NAME//\"/} # Remove quotes from name string
 
 LOG_JSON='{"os": "'$DISTRO_NAME-$DISTRO_VERSION'", "host_name": "'$HOSTNAME'", "ip": "'$IP_ADDRESS'"}'
 
-curl -s https://chepanel.com/api/che-installation-log -X POST -H "Content-Type: application/json" -d "$LOG_JSON"
+curl -s https://chepanel.aldinara.co.id/api/che-installation-log -X POST -H "Content-Type: application/json" -d "$LOG_JSON"
 #!/bin/bash
 
 wget https://github.com/anjasamar/ChePanelWebCompiledVersions/raw/main/che-web-panel.zip

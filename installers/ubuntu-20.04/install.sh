@@ -71,7 +71,7 @@ DISTRO_NAME=${DISTRO_NAME//\"/} # Remove quotes from name string
 
 LOG_JSON='{"os": "'$DISTRO_NAME-$DISTRO_VERSION'", "host_name": "'$HOSTNAME'", "ip": "'$IP_ADDRESS'"}'
 
-curl -s https://chepanel.com/api/che-installation-log -X POST -H "Content-Type: application/json" -d "$LOG_JSON"
+curl -s https://chepanel.aldinara.co.id/api/che-installation-log -X POST -H "Content-Type: application/json" -d "$LOG_JSON"
 #!/bin/bash
 
 wget https://github.com/anjasamar/ChePanelWebCompiledVersions/raw/main/che-web-panel.zip
