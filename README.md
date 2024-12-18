@@ -2,7 +2,6 @@
  <a href="https://chepanel.aldinara.co.id">
  <span>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjasamar/ChePanel/refs/heads/main/docs/public/che-logo-icon.svg"/><br/>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjasamar/ChePanel/refs/heads/main/docs/public/che-logo.svg"/>
   </picture>
  </span>
