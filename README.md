@@ -1,5 +1,12 @@
 <h1 align="center">
- <a href="https://chepanel.aldinara.co.id"> <span>**ChePanel**</span></a>
+ <a href="https://chepanel.aldinara.co.id">
+ <span>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjasamar/ChePanel/refs/heads/main/docs/public/che-logo-icon.svg"/>
+    <img height="69" src="https://raw.githubusercontent.com/anjasamar/ChePanel/refs/heads/main/docs/public/che-logo-icon.svg"/>
+  </picture>
+ </span>
+ </a>
  <br />
 </h1>
 <p align="center">
