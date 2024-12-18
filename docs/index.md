@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "ChePanel"
-  text: "Open Source Web Control Panel for Linux Servers"
+  text: "Freeware Web Control Panel for Linux Servers"
   tagline: "Don't waste time setting up your server, use Che Control Panel to get started quickly."
   actions:
     - theme: brand
