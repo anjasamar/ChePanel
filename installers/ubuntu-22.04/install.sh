@@ -76,7 +76,7 @@ LOG_JSON='{"os": "'$DISTRO_NAME-$DISTRO_VERSION'", "host_name": "'$HOSTNAME'", "
 curl -s https://chepanel.aldinara.co.id/api/che-installation-log -X POST -H "Content-Type: application/json" -d "$LOG_JSON"
 #!/bin/bash
 
-wget https://github.com/anjasamar/ChePanelWebCompiledVersions/raw/main/che-web-panel.zip
+wget https://raw.githubusercontent.com/anjasamar/CheWebCompiledVersions/refs/heads/main/che-web-panel.zip
 unzip -qq -o che-web-panel.zip -d /usr/local/che/web
 rm -rf che-web-panel.zip
 
